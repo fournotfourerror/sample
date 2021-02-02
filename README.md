@@ -23,3 +23,16 @@
 |Koti  | 83 | CSE| 
 
 
+# Unorderd List
+   - Good Morning
+   - Good Afternoon
+   - Good Evening
+
+
+# orderd List
+     a Good Morning
+     b Good Afternoon
+     c Good Evening
+            * Good Morning
+            * Good Afternoon
+            * Good Evening
